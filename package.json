@@ -1,0 +1,15 @@
+{
+  "name": "msupload",
+  "version": "1.0.0",
+  "description": "MEGA upload/download client - Node.js version",
+  "main": "mega.node.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node mega.node.js"
+  },
+  "author": "Szymon Paczos",
+  "license": "ISC",
+  "dependencies": {
+    "megajs": "^1.3.5"
+  }
+}
